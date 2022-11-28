@@ -1,0 +1,112 @@
+Sandbox_RU = {
+  Sandbox_RandomZombiesFull_main_page = "Случайные зомби - основа",
+  Sandbox_RandomZombiesFull_day_page = "Случайные зомби - День",
+  Sandbox_RandomZombiesFull_night_page = "Случайные зомби - Ночь",
+  Sandbox_RandomZombiesFull_special_page = "Случайные зомби - Специальное",
+
+  Sandbox_RandomZombiesFull_Frequency = "Частота переопределениЯ",
+  Sandbox_RandomZombiesFull_Frequency_tooltip = "Интервал в миллисекундах между двумя обновлениями. Большее число означает меньшее использование ЦП, но меньшее число уменьшит реактивность мода при переопределении нормального поведения зомби.",
+
+  Sandbox_RandomZombiesFull_enable_day = "Включить предустановку дня",
+  Sandbox_RandomZombiesFull_enable_day_tooltip = "Включите, чтобы переопределить поведение по умолчанию в течение дня в соответствии с дневным распределением.",
+  Sandbox_RandomZombiesFull_enable_day_values_option1 = "Выкл"
+  Sandbox_RandomZombiesFull_enable_day_values_option2 = "Вкл",
+
+  Sandbox_RandomZombiesFull_enable_night = "Включить ночную предустановку",
+  Sandbox_RandomZombiesFull_enable_night_tooltip = "Включите, чтобы переопределить поведение по умолчанию в ночное время в соответствии с ночным распределением.",
+  Sandbox_RandomZombiesFull_enable_night_values_option1 = "Выкл"
+  Sandbox_RandomZombiesFull_enable_night_values_option2 = "Вкл",
+
+  Sandbox_RandomZombiesFull_enable_special = "Включить специальную предустановку",
+  Sandbox_RandomZombiesFull_enable_special_tooltip = "Включите, чтобы переопределить поведение по умолчанию в особых обстоЯтельствах в соответствии со специальным распределением. ‘пециальная предустановка имеет приоритет над временем суток.",
+  Sandbox_RandomZombiesFull_enable_special_values_option1 = "Выкл"
+  Sandbox_RandomZombiesFull_enable_special_values_option2 = "Дождь",
+  Sandbox_RandomZombiesFull_enable_special_values_option3 = "Снег",
+  Sandbox_RandomZombiesFull_enable_special_values_option4 = "Туман",
+
+  Sandbox_RandomZombiesFull_special_threshold = "Порог особого события",
+  Sandbox_RandomZombiesFull_special_threshold_tooltip = "Если включена специальная предустановка, это позволяет вам решить, к какому порогу интенсивности следует применить предустановку.",
+  Sandbox_RandomZombiesFull_special_threshold_values_option1 = "Любая"
+  Sandbox_RandomZombiesFull_special_threshold_values_option2 = "Легкая (30% и более)",
+  Sandbox_RandomZombiesFull_special_threshold_values_option3 = "Средняя (50% и более)",
+  Sandbox_RandomZombiesFull_special_threshold_values_option4 = "ТяжелаЯ (70% и более)",
+
+
+  
+  Sandbox_RandomZombiesFull_Summer_Night_Start = "Старт летней ночи",
+  Sandbox_RandomZombiesFull_Summer_Night_Start_tooltip = "Во сколько начинается ночь летом. ",
+  Sandbox_RandomZombiesFull_Summer_Night_End = "Конец летней ночи",
+  Sandbox_RandomZombiesFull_Summer_Night_End_tooltip = "В какое время заканчивается ночь летом. ",
+
+  Sandbox_RandomZombiesFull_Autumn_Night_Start = "Начало осенней ночи",
+  Sandbox_RandomZombiesFull_Autumn_Night_Start_tooltip = "Во сколько начинается ночь осенью. ",
+  Sandbox_RandomZombiesFull_Autumn_Night_End = "Конец осенней ночи",
+  Sandbox_RandomZombiesFull_Autumn_Night_End_tooltip = "В какое время ночи заканчиваются осенью. ",
+
+  Sandbox_RandomZombiesFull_Winter_Night_Start = "Начало зимней ночи",
+  Sandbox_RandomZombiesFull_Winter_Night_Start_tooltip = "Во сколько начинается ночь зимой. ",
+  Sandbox_RandomZombiesFull_Winter_Night_End = "Конец зимней ночи",
+  Sandbox_RandomZombiesFull_Winter_Night_End_tooltip = "В какое время ночь заканчивается Зимой. ",
+
+  Sandbox_RandomZombiesFull_Spring_Night_Start = "Начало весенней ночи",
+  Sandbox_RandomZombiesFull_Spring_Night_Start_tooltip = "Во сколько начинается ночь весной. ",
+  Sandbox_RandomZombiesFull_Spring_Night_End = "Конец весенней ночи",
+  Sandbox_RandomZombiesFull_Spring_Night_End_tooltip = "В какое время ночи заканчиваются весной. ",
+
+  Sandbox_RandomZombiesFull_Crawler_Day = "Процент дневных ползающих",
+  Sandbox_RandomZombiesFull_Crawler_Day_tooltip = "Процент ползающих, присутствующих в мире в течение дня. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Shambler_Day = "Процент дневных шаркающих",
+  Sandbox_RandomZombiesFull_Shambler_Day_tooltip = "Процент шаркающих, присутствующих в мире в течение дня. Сумма процентов ползающих, шаркающих, быстроходящих и бегунов должна составлять 100",
+  Sandbox_RandomZombiesFull_FastShambler_Day = "Процент дневных быстроходящих",
+  Sandbox_RandomZombiesFull_FastShambler_Day_tooltip = "Процент быстроходящих, присутствующих в мире в течение дня. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Sprinter_Day = "Процент дневных бегунов",
+  Sandbox_RandomZombiesFull_Sprinter_Day_tooltip = "Процент бегунов, присутствующих в мире в течение дня. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Fragile_Day = "Дневные хрупкие",
+  Sandbox_RandomZombiesFull_Fragile_Day_tooltip = "Процент хрупких зомби, присутствующих в мире в течение дня. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Normal_Day = "Днеыные нормальные",
+  Sandbox_RandomZombiesFull_Normal_Day_tooltip = "Процент зомби с нормальной выносливостью, присутствующих в мире в течение дня. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Tough_Day = "Дневные прочные",
+  Sandbox_RandomZombiesFull_Tough_Day_tooltip = "Процент крепких зомби, присутствующих в мире в течение дня. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Smart_Day = "Дневные умные зомби"
+  Sandbox_RandomZombiesFull_Smart_Day_tooltip = "Процент умных зомби, присутствующих в мире в течение дня. Эти зомби могут открывать двери и обладают обостренными чувствами.",
+
+  Sandbox_RandomZombiesFull_Crawler_Night = "Процент ночных ползающих",
+  Sandbox_RandomZombiesFull_Crawler_Night_tooltip = "Процент ползающих, присутствующих в мире в течение ночи. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Shambler_Night = "Процент ночных шаркающих",
+  Sandbox_RandomZombiesFull_Shambler_Night_tooltip = "Процент шаркающих, присутствующих в мире в течение ночи. Сумма процентов ползающих, шаркающих, быстроходящих и бегунов должна составлять 100",
+  Sandbox_RandomZombiesFull_FastShambler_Night = "Процент ночных быстроходящих",
+  Sandbox_RandomZombiesFull_FastShambler_Night_tooltip = "Процент быстроходящих, присутствующих в мире в течение ночи. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Sprinter_Night = "Процент ночных бегунов",
+  Sandbox_RandomZombiesFull_Sprinter_Night_tooltip = "Процент бегунов, присутствующих в мире в течение ночи. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Fragile_Night = "Ночные хрупкие",
+  Sandbox_RandomZombiesFull_Fragile_Night_tooltip = "Процент хрупких зомби, присутствующих в мире в течение ночи. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Normal_Night = "Ночные нормальные",
+  Sandbox_RandomZombiesFull_Normal_Night_tooltip = "Процент зомби с нормальной выносливостью, присутствующих в мире в течение ночи. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Tough_Night = "Ночные прочные",
+  Sandbox_RandomZombiesFull_Tough_Night_tooltip = "Процент крепких зомби, присутствующих в мире в течение дня. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Smart_Night = "Ночные умные зомби"
+  Sandbox_RandomZombiesFull_Smart_Night_tooltip = "Процент умных зомби, присутствующих в мире в течение ночи. Эти зомби могут открывать двери и обладают обостренными чувствами.",
+
+  Sandbox_RandomZombiesFull_Crawler_Special = "Процент специальных ползающих",
+  Sandbox_RandomZombiesFull_Crawler_Special_tooltip = "Процент ползающих, присутствующих в мире во время специального события. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Shambler_Special = "Процент специальных шаркающих",
+  Sandbox_RandomZombiesFull_Shambler_Special_tooltip = "Процент шаркающих, присутствующих в мире во время специального события. Сумма процентов ползающих, шаркающих, быстроходящих и бегунов должна составлять 100",
+  Sandbox_RandomZombiesFull_FastShambler_Special = "Процент специальных быстроходящих",
+  Sandbox_RandomZombiesFull_FastShambler_Special_tooltip = "Процент быстроходящих, присутствующих в мире во время специального события. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Sprinter_Special = "Процент специальных бегунов",
+  Sandbox_RandomZombiesFull_Sprinter_Special_tooltip = "Процент бегунов, присутствующих в мире во время специального события. Сумма ползающих, шаркающих, быстроходящих и бегунов должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Fragile_Special = "Специальные хрупкие",
+  Sandbox_RandomZombiesFull_Fragile_Special_tooltip = "Процент хрупких зомби, присутствующих в мире во время особого события. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Normal_Special = "Специальные нормальные",
+  Sandbox_RandomZombiesFull_Normal_Special_tooltip = "Процент зомби с нормальной выносливостью, присутствующих в мире во время особого события. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+  Sandbox_RandomZombiesFull_Tough_Special = "Специальные прочные",
+  Sandbox_RandomZombiesFull_Tough_Special_tooltip = "Процент крепких зомби, присутствующих в мире во время особого события. Хрупкий, нормальный и прочный должны в сумме давать 100.",
+
+  Sandbox_RandomZombiesFull_Smart_Special = "Специальные умные зормби"
+  Sandbox_RandomZombiesFull_Smart_Special_tooltip = "Процент умных зомби, присутствующих в мире во время особого события. Эти зомби могут открывать двери и обладают обостренными чувствами.",
+}
